@@ -1,0 +1,48 @@
+@media (min-width: 768px) {
+  main {
+    margin: 12rem auto 3rem auto;
+    padding: 0 6rem;
+    max-width: 64rem;
+  }
+  h1 {
+    font-size: 3rem;
+    line-height: 3.75rem;
+  }
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: #432b4c;
+  background-color: #f9f5f2;
+  font-size: 16px;
+  margin: 0;
+}
+
+main {
+  margin: 4rem auto 2rem auto;
+  padding: 0 2rem;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 2.5rem;
+}
+
+.highlight {
+  color: #de22fd;
+}
+
+a {
+  color: #432b4c;
+  font-style: italic;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
